@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  width: 100%;
+  height: 100%;
+}
+#menu {
+  float: left;
+  margin: -16px 20px 0px -10px;
+}
+#retour {
+  float: top ;
+  margin: 0px 0px 0px 1000px;
+}
+li {
+  display: inline-block;
+  margin: 0px 10px;
+  color: black;
+}
+li:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 60px;
+}
+video {
+  margin: 10px 0px 0px 600px;
+}
+footer {
+  font-size: 55px;
+  background: url("fond2.jfif");
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
